@@ -8,7 +8,7 @@ This VM was built using:
 
 ## Usage
 
-If you have a puppet server code, drop it into the puppeteer directory. The puppeteer directory is just a placeholder. For example:
+If you have puppet server code already in a git repository, drop it into the puppeteer directory. The puppeteer directory is just a placeholder. For example:
 	
 	> git clone https://github.com/templesofcode/puppeteer.git vagrant_puppeteer
 	> cd vagrant_puppeteer
